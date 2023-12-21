@@ -1,0 +1,14 @@
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\bin\Debug\net7.0\Knowledge-Check-Two.exe
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\bin\Debug\net7.0\Knowledge-Check-Two.deps.json
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\bin\Debug\net7.0\Knowledge-Check-Two.runtimeconfig.json
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\bin\Debug\net7.0\Knowledge-Check-Two.dll
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\bin\Debug\net7.0\Knowledge-Check-Two.pdb
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\obj\Debug\net7.0\Knowledge-Check-Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\obj\Debug\net7.0\Knowledge-Check-Two.AssemblyInfoInputs.cache
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\obj\Debug\net7.0\Knowledge-Check-Two.AssemblyInfo.cs
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\obj\Debug\net7.0\Knowledge-Check-Two.csproj.CoreCompileInputs.cache
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\obj\Debug\net7.0\Knowledge-Check-Two.dll
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\obj\Debug\net7.0\refint\Knowledge-Check-Two.dll
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\obj\Debug\net7.0\Knowledge-Check-Two.pdb
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\obj\Debug\net7.0\Knowledge-Check-Two.genruntimeconfig.cache
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-2\sdc1-knowledge-check-2\Knowledge-Check-Two\obj\Debug\net7.0\ref\Knowledge-Check-Two.dll
